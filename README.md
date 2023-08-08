@@ -7,16 +7,21 @@ VerificationSystemPlugin [limbo - 1.20]\
 <!-- IMAGES -->
 ## Images
 
+Discord Embed\
 ![embed]
 ![key_embed]
+![already_registered]\
+Motd\
 ![wrong_version]
-![motd]
+![motd]\
+Minecraft Title\
 ![paste_key]
-![wrong_pattern]
+![is_linked]\
+Actionbar\
+![already_linked]\
+![wrong_pattern]\
 ![key_is_invalid]
-![already_registered]
-![is_linked]
-![already_linked]
+
 
 
 <!-- USAGE EXAMPLES -->
