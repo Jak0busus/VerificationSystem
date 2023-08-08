@@ -62,7 +62,7 @@ The Sadu library simplifies sending asynchronous database queries using HikariCP
                 .thenApply(UpdateResult::changed);
     }
   ```
-The configuration employs MiniMessages messages to provide maximum configurability.\
+The configuration employs MiniMessages messages to provide maximum configurability.
 > Minimessages is a formatting system that allows you to create visually appealing and highly customizable text messages in Minecraft plugins. It offers a wide range of options to style and structure your messages, including text colors, formatting, placeholders, and even custom gradients. Custom gradients enable you to smoothly transition between different colors, adding a dynamic and visually engaging element to your in-game messages. This flexibility makes Minimessages a powerful tool for enhancing the user experience and conveying information in a creative and engaging manner.\
 https://docs.advntr.dev/minimessage/api.html
 
